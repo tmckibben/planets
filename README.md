@@ -2,7 +2,7 @@
 
 ###Read all these instructions before continuing. 
 
-Your assignment is to add a new file to this repository.  
+Your assignment is to add a new file to this repository.  This can be done entirely through the GitHub web interface, you will not need to use the command line.  
 
 First think of a planet (real or fictional).  Visit the pull request tab to see what others are submitting -- attempt to not use the same planetname!
 
