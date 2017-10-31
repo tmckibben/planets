@@ -8,7 +8,7 @@ First think of a planet (real or fictional).  Visit the pull request tab to see 
 
 Next, click the "Create new file" button above.
 
-Github will warn you that you don't have write access to this repository.  But, it will give you a page where you can name your file:  make it ```yourplanetname.txt```  where you replace ```yourplanetname``` with the planet of your choosing.
+Github will warn you that you don't have write access to this repository.  But, it will give you a page where you can name your file:  make it ```yourplanetname.txt```  where you replace ```yourplanetname``` with the planet of your choosing. Make sure to use lower-case letters and add the `.txt` extenstion so that GitHub renders it properly.
 
 Add some content to your file about your planet.  (See ```gallifrey.txt``` for an example.)
 
